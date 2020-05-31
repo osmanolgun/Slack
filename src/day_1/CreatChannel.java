@@ -7,8 +7,8 @@ public class CreatChannel {
         System.out.println("User is able to create channel");
 
         
+        System.out.println("Osman Olgun Osman Olgun123");
         System.out.println("Osman Olgun Osman Olgun");
-        System.out.println("Osman Olgun Osman Olgun456");
         System.out.println("Osman Olgun");
         System.out.println("Osman Olgun");
         System.out.println("Osman Olgun");
