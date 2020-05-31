@@ -13,7 +13,7 @@ public class CreatChannel {
         System.out.println("Osman Olgun");
         System.out.println("Osman Olgun");
         System.out.println("Osman Olgun");
-        System.out.println("Osman Olgun");
+        System.out.println("Osman Olgun Osman Olgun");
         //This changes are done from Github
 
     }
